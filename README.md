@@ -32,7 +32,6 @@ The multimodal model achieved the highest accuracy and demonstrated improved rob
 Dataset Link:  
 https://figshare.com/articles/figure/FIVES_A_Fundus_Image_Dataset_for_AI-based_Vessel_Segmentation/19688169/1
 
-Only fundus images were used for classification; segmentation masks were not used in this study.
 
 ---
 
